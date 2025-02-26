@@ -79,7 +79,7 @@ If you want to support the development of this project, you can [click here](htt
 ```
 ol5a5ae6d1
 ```
-
+> Don't forget to ⭐ this repo 
 
 ## License
 
