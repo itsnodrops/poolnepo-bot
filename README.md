@@ -54,13 +54,17 @@ OpenLoop Network is a decentralized wireless network aimed at enhancing internet
    ```bash
    python3 main.py
    ```
-   > Create a token first by selecting `2. Login to Get Token` \
-   > If the token already exists, you can immediately run the bot with the option `1. Start Node` \
-   > If the token expires, you can recreate the token by selecting the option `2. Login to Get Token` \
-   > You can run all the features directly by selecting option `4. Autorun (Login & Get Token > Complete Task > Start Node)`
+   > - Create a token first by selecting `2. Login to Get Token` \
+   > - If the token already exists, you can immediately run the bot with the option `1. Start Node` \
+   > - If the token expires, you can recreate the token by selecting the option `2. Login to Get Token` \
+   > - You can run all the features directly by selecting option `4. Autorun (Login & Get Token > Complete Task > Start Node)`
 7. To stop the bot and exit, you can use the `CTRL+C` combination then exit the virtual environment by running: 
    ```bash
    deactivate
+   ```
+8. To update this bot, you can run this command:
+   ```bash
+   cd poolnepo-bot && git stash && git pull --rebase
    ```
 
 ## Disclaimer
