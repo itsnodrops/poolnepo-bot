@@ -10,8 +10,9 @@ OpenLoop Network is a decentralized wireless network aimed at enhancing internet
 
 ## **Features**
 
-- **Automatic Registration**
-- **Load Existing Tokens**: 
+- **Automatic Login & Generate New Token**
+- **Load Existing Tokens**
+- **Automatic Finish Available Task**
 - **Automatic Ping**
 - **Supports Multiple Accounts**
 
@@ -55,7 +56,8 @@ OpenLoop Network is a decentralized wireless network aimed at enhancing internet
    ```
    > Create a token first by selecting `2. Login to Get Token` \
    > If the token already exists, you can immediately run the bot with the option `1. Start Node` \
-   > If the token expires, you can recreate the token by selecting the option `2. Login to Get Token`
+   > If the token expires, you can recreate the token by selecting the option `2. Login to Get Token` \
+   > You can run all the features directly by selecting option `4. Autorun (Login & Get Token > Complete Task > Start Node)`
 7. To stop the bot and exit, you can use the `CTRL+C` combination then exit the virtual environment by running: 
    ```bash
    deactivate
@@ -79,7 +81,7 @@ If you want to support the development of this project, you can [click here](htt
 ```
 ol5a5ae6d1
 ```
-> Don't forget to ⭐ this repo 
+
 
 ## License
 
